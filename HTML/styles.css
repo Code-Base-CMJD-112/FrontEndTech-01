@@ -1,0 +1,31 @@
+.color-1{
+    background-color: rgb(51, 153, 87);
+    border: 0.5px solid black;
+    width: 200px;
+    height: 150px;
+}
+#box-2{
+    left: 250px;
+
+    position: relative;
+    background-color: yellow;
+}
+#box-3{
+  background-color: brown;
+  position: absolute;
+  left: 250px;
+
+}
+#box-4{
+    background-color: blue;
+    left: 550px;
+    position: fixed;
+}
+#box-5{
+    background-color: chocolate;
+    position: sticky;
+    top: 80px;
+}
+*{
+   height: 150vh;
+}

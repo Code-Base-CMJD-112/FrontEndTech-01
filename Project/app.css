@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#detail-pan{
+    position: absolute;
+    width: 100vw;
+    height: 90vh;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    
+}
+#top-header{
+    width: 100%;
+    position: fixed;
+    height: 50px;
+    
+}
+#left-pan{
+    width: 40%;
+}
+#left-pan img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

@@ -1,0 +1,16 @@
+*{
+    font-style: italic;
+ }
+ h2{
+     color: rgb(123, 205, 87);
+ }
+ .font-view{
+     text-decoration: underline;
+ }
+ #section-view{
+     color: blue ;
+ }
+ input[type]{
+     border: 2px solid red;
+ }
+ 
